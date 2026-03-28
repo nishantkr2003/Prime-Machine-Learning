@@ -1,0 +1,9 @@
+# datasets
+*.csv
+*.tar.gz
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# large files
+data/
